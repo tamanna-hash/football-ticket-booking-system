@@ -40,7 +40,7 @@ Stores ticket booking information and connects users with matches through foreig
 * Aggregate Functions
 * Pattern Matching using LIKE and ILIKE
 * NULL Handling using COALESCE
-* Pagination using LIMIT and OFFSET
+* Using LIMIT and OFFSET
 
 ## Files Included
 
